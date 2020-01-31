@@ -52,4 +52,3 @@ plt.legend(['Analitik','Numerik'], loc = 'upper right')
 plt.ylim(0,high)
 plt.show()
 
-1301183484
